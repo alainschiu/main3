@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "564c8622d979a57e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c98cdc75431a634d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a60a90796dab143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reflects/Autechre at the Barbican.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b11cea5029650f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b07703113deb25e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d799c6c3ac16ba4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "77c8f76dad0fb39b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b596c83bc299a2e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 205
+  },
+  "right": {
+    "id": "8409ded03a5249a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d500275444f7485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed7b74537ad7687b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "170696660e2c3d5d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbd6797aa559855c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reflects/Autechre at the Barbican.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1f47d1330f2519c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c10ec62d6913b21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5753f8f5ac25d4f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reflects/Autechre at the Barbican.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e345df3b69346900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93266489755538b5",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 728.5
+  },
+  "active": "7a60a90796dab143",
+  "lastOpenFiles": [
+    "NOC Project/NOC Project Visual.md",
+    "System.md",
+    "NOC Project/Misc Notes/Soren Kierkegaard.md",
+    "NOC Project/Nocturne Project.md",
+    "NOC Project/Private Music Research/Origin of Romanticism.md",
+    "NOC Project/Private Music Research/Nocturne Nomenclature.md",
+    "NOC Project/Private Music Research/Lyric Poem.md",
+    "NOC Project/Private Music Research/Song Without Words.md",
+    "NOC Project/Misc Notes/Autechre at the Barbican 1.md",
+    "NOC Project/Private Music Research/New Simplicity.md"
+  ]
+}

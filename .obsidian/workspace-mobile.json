@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "564c8622d979a57e",
+    "type": "split",
+    "children": [
+      {
+        "id": "364eb064997b628a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0291be9a370b601e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbf0e2a86d6082e0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f57ee7023ad6a6d1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4079f1b4cc6184c9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0a7d2faf286b42a2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "39747c4d9a2a55a6",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "023b5ff64e7b96b8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c9e6245b45c64515",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8509a0bf6a2f7dd2",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "0291be9a370b601e",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Ssytem.md",
+    "Bagatelle/Main Idea.md",
+    "Bagatelle/Bagatelle Scheduling.md",
+    "My Daily Routine.md",
+    "She.md",
+    "MOA/MOA Brief.md",
+    "Displacement.md",
+    "On longing.md",
+    "Study on loops.md"
+  ]
+}

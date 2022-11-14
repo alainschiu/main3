@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "My Daily Routine",
+      "path": "My Daily Routine.md"
+    },
+    {
+      "type": "file",
+      "title": "System",
+      "path": "System.md"
+    },
+    {
+      "type": "file",
+      "title": "NOC romantism research Start Here",
+      "path": "NOC Project/Private Music Research/NOC romantism research Start Here.md"
+    },
+    {
+      "type": "file",
+      "title": "Nocturne Project",
+      "path": "NOC Project/Nocturne Project.md"
+    }
+  ]
+}
