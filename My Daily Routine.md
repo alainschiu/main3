@@ -1,0 +1,6 @@
+- Job and Opportunity Search ~45 mins
+- Socializes with Interest Parties ~30 mins
+- Writing and putting ideas down ~1 hour
+- Music and composition ~1 hour 30 mins
+- Reading ~1 hour 
+- Journaling ~30 mins
